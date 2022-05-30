@@ -1,3 +1,3 @@
 # Demo
 
-This is first train to see 
+This is the first step to learn Github 
